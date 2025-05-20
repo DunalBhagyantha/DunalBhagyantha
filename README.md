@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Dunal Bhagyantha</h1>
 
-<!--
-**DunalBhagyantha/DunalBhagyantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>A passionate cyber security learner and open-source enthusiast</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills & Interests:
+- Cyber Security | TryHackMe & HackTheBox Learner
+- Python (Beginner Level, Learning Everyday)
+- JavaScript | HTML | CSS
+- Exploring: Networking, Ethical Hacking, Security Automation
+
+---
+
+### 🧠 Currently Learning:
+- Deepening Python for security scripting
+- Penetration Testing & Vulnerability Research
+- Gearing up for GSoC 2026 (Security Track)
+
+---
+
+### 🛠️ Tools I Use:
+- Linux | Git & GitHub | Burp Suite | Wireshark | VS Code
+
+---
+
+### 📫 Connect with me:
+- GitHub: [github.com/DunalBhagyantha](https://github.com/DunalBhagyantha)
+- Email: <your.email@example.com> *(Add it if you like)*
+
+---
+
+### ❤️ Fun Fact:
+> **My heart belongs to cyber security... and a girl named Emma.**  
