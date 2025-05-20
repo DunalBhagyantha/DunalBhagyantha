@@ -2,14 +2,18 @@
 
 ---
 
+<p align="center">
+  <em>A passionate cyber security learner and open-source enthusiast</em>
+</p>
+
+
+
+
+
 ### 📊 GitHub Stats:
 
 ![Dunal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DunalBhagyantha&show_icons=true&theme=radical)
 
-
-<p align="center">
-  <em>A passionate cyber security learner and open-source enthusiast</em>
-</p>
 
 ---
 
