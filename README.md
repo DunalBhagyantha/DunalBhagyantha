@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Dunal Bhagyantha</h1>
 
+
+<img src="https://raw.githubusercontent.com/DunalBhagyantha/DunalBhagyantha/44b01e5c75073a791046b68ebb6896b0cee93fee/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d54696d652b4e65772b526f6d616e26636f6c6f723d6379616e2673697a653d32352663656e7465723d74727565.svg?raw=true"/>
+
+
+
+
 ---
 
 <p align="center">
