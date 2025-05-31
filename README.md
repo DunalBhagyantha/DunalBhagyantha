@@ -64,7 +64,5 @@
 ### ❤️ Fun Fact:
 > **My heart belongs to cyber security... and ...**  
 
-<img src="https://github.com/DunalBhagyantha/DunalBhagyantha/blob/main/emma.svg?raw=true" width="300"/>
-<img src="https://github.com/DunalBhagyantha/DunalBhagyantha/blob/main/emma.svg?raw=true" width="300"/>
 
 
