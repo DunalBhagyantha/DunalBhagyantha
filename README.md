@@ -56,7 +56,7 @@
 - GitHub: (github.com/DunalBhagyantha)
 - X: [(twitter.com/DunalBhagyantha)](https://twitter.com/DunalBhagyantha)
 - instagram: https://instagram.com/dunal200
-- Email: <your.email@example.com> **
+- Email: <....email@example.com> **
 
 ---
 
