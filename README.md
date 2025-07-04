@@ -31,6 +31,23 @@
 
 ---
 
+## 🏅 Certifications
+
+- [✅ OPSWAT Academy – Introduction to Critical Infrastructure Protection](https://learn.opswatacademy.com/certificate/aA6yJ_Aw2Q)  
+  *Issued July 2025*  
+  <img src="https://img.shields.io/badge/Cybersecurity-CIP-blue?style=flat-square&logo=opswat&logoColor=white" alt="CIP Badge">
+---
+
+
+## 🏅 My Badges
+
+🛡️ [View My Credly Badge Profile](https://www.credly.com/users/dunal-bhagyantha)  
+(Verified cybersecurity credentials from Cisco, OPSWAT, etc.)
+
+
+---
+
+
 ### 🧠 Currently Learning:
 - Deepening Python for security scripting
 - Penetration Testing & Vulnerability Research
@@ -38,14 +55,7 @@
 
 ---
 
-## 🏅 Certifications
 
-- [✅ OPSWAT Academy – Introduction to Critical Infrastructure Protection](https://learn.opswatacademy.com/certificate/aA6yJ_Aw2Q)  
-  *Issued July 2025*  
-  <img src="https://img.shields.io/badge/Cybersecurity-CIP-blue?style=flat-square&logo=opswat&logoColor=white" alt="CIP Badge">
-
-
---- 
 ### 🛠️ Tools I Use:
 - Linux | Git & GitHub | Burp Suite | Wireshark | VS Code
 
