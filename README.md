@@ -41,8 +41,8 @@
 
 ## 🏅 My Badges
 
-🛡️ [View My Credly Badge Profile](https://www.credly.com/users/dunal-bhagyantha)  
-(Verified cybersecurity credentials from Cisco, OPSWAT, etc.)
+- 🛡️ [View My Credly Badge Profile](https://www.credly.com/users/dunal-bhagyantha)  
+  (Verified cybersecurity credentials from Cisco, OPSWAT, etc.)
 
 
 ---
