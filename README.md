@@ -38,6 +38,14 @@
 
 ---
 
+## 🏅 Certifications
+
+- [✅ OPSWAT Academy – Introduction to Critical Infrastructure Protection]([https://academy.opswat.com/view-certificate-link-here](https://t.co/4hpgaEwLum))  
+  *Issued July 2025*  
+  <img src="https://img.shields.io/badge/Cybersecurity-CIP-blue?style=flat-square&logo=opswat&logoColor=white" alt="CIP Badge">
+
+---
+
 ### 🛠️ Tools I Use:
 - Linux | Git & GitHub | Burp Suite | Wireshark | VS Code
 
