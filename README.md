@@ -25,8 +25,8 @@
 
 ### 💻 Skills & Interests:
 - Cyber Security | TryHackMe & HackTheBox Learner
-- Python (Beginner Level, Learning Everyday)
-- JavaScript | HTML | CSS
+- Python | JavaScript | (Beginner Level, Learning Everyday)
+- HTML | CSS
 - Exploring: Networking, Ethical Hacking, Security Automation
 
 ---
