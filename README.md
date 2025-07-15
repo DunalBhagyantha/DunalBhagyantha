@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity-CIP-blue?style=flat-square&logo=opswat&logoColor=white" alt="CIP Badge">
 
 
- - [✅ Cisco Networking Academy – Introduction to Cybersecurity ](https://github.com/DunalBhagyantha/certificates/blob/main/I2CSUpdate20250715-28-xpxav0.pdf) 
+ - [✅ Cisco Networking Academy – Introduction to Cybersecurity ](https://github.com/DunalBhagyantha/certificates/blob/98ae940966c1bd313de3485c4394bbc798e3e671/Introduction%20to%20Cybersecurity%20cisco%20mvk.png?raw=true)  
   *Issued July 2025*  
   
 ---
