@@ -45,6 +45,11 @@
 - [✅ Aviatrix – Multicloud Network Associate
  ](https://github.com/DunalBhagyantha/certificates/blob/main/Screenshot%202025-10-08%20170942.png?raw=true)  
   *Issued October 2025*
+
+
+- [✅ Cisco Networking Academy – Introduction to IoT]
+  (https://github.com/DunalBhagyantha/certificates/blob/98ae940966c1bd313de3485c4394bbc798e3e671/Introduction%20to%20Cybersecurity%20cisco%20mvk.png?raw=true)  
+  *Issued November 2025* 
    
 ---
 
