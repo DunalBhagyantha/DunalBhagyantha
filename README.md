@@ -48,7 +48,7 @@
 
 
 - [✅ Cisco Networking Academy – Introduction to IoT]
-  (https://github.com/DunalBhagyantha/certificates/blob/98ae940966c1bd313de3485c4394bbc798e3e671/Introduction%20to%20Cybersecurity%20cisco%20mvk.png?raw=true)  
+  (https://raw.githubusercontent.com/DunalBhagyantha/certificates/refs/heads/main/Introduction%20to%20Cybersecurity%20cisco%20mvk.png)  
   *Issued November 2025* 
    
 ---
